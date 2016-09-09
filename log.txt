@@ -1,1 +1,1 @@
-Generation : 10 - Best fitness : 75.230359
+Generation : 710 - Best fitness : 90.341258
